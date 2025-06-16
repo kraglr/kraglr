@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
-
+# Hi there! 👋 I'm Kier Aguilar
 ### A Passionate Full-Stack Web Developer building robust and beautiful web applications.
 
 ---
