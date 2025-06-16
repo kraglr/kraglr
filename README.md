@@ -37,7 +37,7 @@ Here are the technologies and tools I'm proficient with:
 
 Let's connect and build something amazing together!
 
--   **LinkedIn:** linkedin.com/in/aguilar-kier-luna
+-   **LinkedIn:** htts://linkedin.com/in/aguilar-kier-luna
 -   **Portfolio/Website:** https://kraglr.github.io/portfoliov2/
 -   **Email:** aguilarkier25@gmai.com
 
