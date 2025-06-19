@@ -19,7 +19,7 @@ I specialize in the **Laravel, React, Node.js, and MySQL** ecosystem, allowing m
 
 Here are the technologies and tools I'm proficient with:
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,nodejs,mysql,php,js,html,css,git,github,vscode,tailwind,bootstrap,express,rest,linux,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,nodejs,mysql,php,js,html,css,git,github,vscode,tailwind,bootstrap,express,rest,postman)](https://skillicons.dev)
 
 
 
