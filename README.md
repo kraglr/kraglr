@@ -39,7 +39,7 @@ Let's connect and build something amazing together!
 
 -   **LinkedIn:** htts://linkedin.com/in/aguilar-kier-luna
 -   **Portfolio/Website:** https://kraglr.github.io/portfoliov2/
--   **Email:** aguilarkier25@gmai.com
+-   **Email:** aguilarkier25@gmail.com
 
 ---
 
