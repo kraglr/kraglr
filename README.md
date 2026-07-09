@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-I'm a dedicated Full-Stack Web Developer with 3 years of hands-on experience in designing, developing, and deploying high-performance web solutions. My journey in development has been driven by a passion for solving complex problems and creating intuitive user experiences.
+I'm a dedicated Full-Stack Web Developer with 4 years of hands-on experience in designing, developing, and deploying high-performance web solutions. My journey in development has been driven by a passion for solving complex problems and creating intuitive user experiences.
 
 I specialize in the **Laravel, React, Node.js, and MySQL** ecosystem, allowing me to build comprehensive applications from the ground up – from designing scalable database schemas to crafting elegant front-end interfaces.
 
